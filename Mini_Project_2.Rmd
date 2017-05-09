@@ -1,9 +1,9 @@
-
+---
 title: "MP2 - Final"
 author: "Zoe Meers, Natasha Jadavji, Christine Yee"
 date: "3/20/2017"
 output: html_document
-
+---
 ```{r, message=FALSE, echo=FALSE}
 #load data sets
 load("house_elections.rda")
